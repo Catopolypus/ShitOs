@@ -1,0 +1,2 @@
+bootsec:
+    push
