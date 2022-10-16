@@ -1,5 +1,5 @@
 ASMC = nasm
-CC = gcc
+C_CMP = gcc
 
 # Files 
 ASMFILES = $(wildcard src/**/*.asm)
