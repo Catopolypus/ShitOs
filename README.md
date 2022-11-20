@@ -11,3 +11,7 @@ programs on your OS and how to use the command line.
     - `nasm`: A compiler for Assembly files.
     - `qemu`: An emulator for the OS. If you want to use something else, you can use that, but there will not be a tutorial how
     to set things up in e.g. VMWare or something else. You have to work it out by yourself then.
+
+### Resources and helping websites
+- https://github.com/cfenollosa/os-tutorial
+- Osdev wiki
