@@ -16,6 +16,11 @@ programs on your OS and how to use the command line.
 to run it. Use `make build` to only build the OS, use `make run` to build the OS and run it in qemu. To use this option, qemu has to be installed
 - For further tutorials, read the section "Working with the OS"
 
+### TODO
+- Need a real kernel
+- Need a 32bit print
+- honestly, we really are just doing the beare bones
+
 ### Resources and helping websites
 - https://github.com/cfenollosa/os-tutorial
 - Osdev wiki
