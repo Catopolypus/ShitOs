@@ -11,6 +11,10 @@ programs on your OS and how to use the command line.
     - `nasm`: A compiler for Assembly files.
     - `qemu`: An emulator for the OS. If you want to use something else, you can use that, but there will not be a tutorial how
     to set things up in e.g. VMWare or something else. You have to work it out by yourself then.
+- To build the OS, open a terminal, and go to the directory of the OS: `cd <path of the directory e.g. /home/user/ShitOs>`
+- Inside the directory, run the command `make` to build the OS. You have to specify, if you want to build it only or if you also want
+to run it. Use `make build` to only build the OS, use `make run` to build the OS and run it in qemu. To use this option, qemu has to be installed
+- For further tutorials, read the section "Working with the OS"
 
 ### Resources and helping websites
 - https://github.com/cfenollosa/os-tutorial
